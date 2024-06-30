@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/library.jpg</file>
+        <file>pic/39building.jpg</file>
+        <file>pic/erjiao.jpg</file>
+        <file>pic/lier.jpg</file>
+        <file>pic/lijiao.jpg</file>
+        <file>pic/liyi.jpg</file>
+        <file>pic/sanjiao.jpg</file>
+        <file>pic/wusi.jpg</file>
+        <file>pic/zuobiao.jpg</file>
+    </qresource>
+</RCC>
